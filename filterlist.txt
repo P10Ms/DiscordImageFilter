@@ -1,4 +1,4 @@
-! Title: Discord Image Filter
+! Title: Discord Image Uncompressor Filter
 ! Description: Very simple uBlock filter that removes Discord image compression when opened in a browser. 
 ! Expires: 15 days
 ! Last modified: 23 November 2024
