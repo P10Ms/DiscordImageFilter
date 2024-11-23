@@ -5,4 +5,8 @@
 ! Homepage: https://github.com/P10Ms/DiscordImageFilter
 ! Contribute: https://github.com/P10Ms/DiscordImageFilter/issues
 
-||media.discordapp.net^$removeparam=width,removeparam=height
+||media.discordapp.net^$removeparam=width
+||media.discordapp.net^$removeparam=height
+
+||cdn.discordapp.net^$removeparam=width
+||cdn.discordapp.net^$removeparam=height
